@@ -10,5 +10,9 @@ Developed by Anthony Zhang, Kevin Chow, and Adrien Johnson
 * Uses the **phaser.io** HTML5/Js game development framework.
 
 ## To-do
-* Implement falling stars.
+* ~~Implement falling stars.~~
+* ~~Timer and win condition.~~
+* ~~Custom sprites.~~
+* ~~Player respawn conditions based on death.~~
+* ~~QoL changes (ie. player spawn position, score position, reworking platforms, remove bounce)~~
 * Title screen.
