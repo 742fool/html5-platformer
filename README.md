@@ -1,6 +1,6 @@
 # Star Collector
 
-Developed by Anthony Zhang, Kevin Chow, and Adrien Johnson
+Developed by <a href="https://github.com/zhanga">Anthony Zhang</a>, <a href="https://github.com/chowkevin">Kevin Chow</a>, and <a href="https://github.com/AdrienMakes">Adrien Johnson</a>
 
 ## What is it?
 * A 2 player game in which the objective is to collect the falling stars.
