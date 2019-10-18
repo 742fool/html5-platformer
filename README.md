@@ -7,7 +7,7 @@ Developed by <a href="https://github.com/zhanga">Anthony Zhang</a>, <a href="htt
 * Whoever collects the most stars by the end of the timer wins.
 * The controls are WASD for Player 1, and the Arrow Keys for Player 2.
 * Project developed for a presentation.
-* Uses the **phaser.io** HTML5/Js game development framework.
+* Uses the <a href="http://phaser.io/">**phaser.io**</a> HTML5/Js game development framework.
 
 ## To-do
 * ~~Implement falling stars.~~
